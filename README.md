@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with [Full Stack App - Organisation Leave Management Portal](To be Updated)
 
-- 👨‍💻 All of my projects are available at [https://newportfolio-1.jstackshubham.repl.co/](https://newportfolio-1.jstackshubham.repl.co/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://newportfolio-1.jstackshubham.repl.co/)
 
 - 📝 I regularly write articles on [Full Stack Web Development Technologies - Django & React JS Stack](Full Stack Web Development Technologies - Django & React JS Stack)
 
