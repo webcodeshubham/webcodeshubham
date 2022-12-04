@@ -37,7 +37,7 @@
 
 - 🌱 I’m currently learning **JavaScript ES6, React JS Library 🥀**
 
-- 🙌 I’m looking to collaborate on **[Frontend Web Application - React JS](To be Updated)**
+- 🙌 I’m looking to collaborate on **Frontend Web Application - React JS**
 
 - 🤝 I’m looking for help with **[Full Stack App - Organisation Leave Management Portal](https://frontend-task-management-sys.herokuapp.com/)**
 
