@@ -39,7 +39,7 @@
 
 - 📫 How to reach me **theshubhamshri@gmail.com.**
 
-- 📄 Know about my experiences **[Curriculum Vitae].(https://drive.google.com/file/d/14p-YyGQw5WtaJrumZuFQuP2EdDBD3zTu/view?usp=share_link)**
+- 📄 Know about my experiences **[Curriculum Vitae](https://drive.google.com/file/d/14p-YyGQw5WtaJrumZuFQuP2EdDBD3zTu/view?usp=share_link)**
 
 - ⚡ Fun fact **"I am a Mechanical Graduate" === "Full Stack!"😁**
 
