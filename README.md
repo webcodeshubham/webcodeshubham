@@ -3,7 +3,7 @@
 <h1 align="center">Hey there! 👋, I'm Shubham Shrivastava 👨‍💻🌱</h1>
 <h3 align="center">Passionate Frontend Web Developer 👨‍💻</h3>
 
-### 🙌 Visitors-Count
+### 🏆 Visitors-Count
 ![Visitor Count](https://profile-counter.glitch.me/{webcodeshubham}/count.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webcodeshubham&label=Profile%20views&color=0e75b6&style=flat" alt="webcodeshubham" /> </p>
