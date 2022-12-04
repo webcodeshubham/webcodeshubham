@@ -27,7 +27,7 @@
 
 - 🔭 I’m currently working on **[Full Stack App - Organisation Leave Management Portal](https://frontend-task-management-sys.herokuapp.com/)**
 
-- 🌱 I’m currently learning **JavaScript ES6, React JS Library 🥀**
+- 🌱 I’m currently learning **JavaScript ES6,  React JS Library 🥀**
 
 - 🙌 I’m looking to collaborate on **Frontend Web Application - React JS**
 
@@ -35,7 +35,7 @@
 
 - 👨‍💻 All of my projects are available at **[Portfolio](https://newportfolio-1.jstackshubham.repl.co/)**
 
-- 💬 Ask me about **HTML - 5, CSS - 3,JavaScript ES6, React JS, Django, Django Rest Framework 🥀**
+- 💬 Ask me about **HTML - 5, CSS - 3, JavaScript ES6, React JS, Django, Django Rest Framework 🥀**
 
 - 📫 How to reach me **theshubhamshri@gmail.com**
 
