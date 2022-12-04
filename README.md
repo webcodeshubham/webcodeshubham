@@ -1,5 +1,6 @@
 <h1 align="center">Hey there! 👋, I'm Shubham Shrivastava 🌱</h1>
 <h3 align="center">Passionate Frontend Web Developer 👨‍💻</h3>
+(img align="right" alt="Coding" width="400" src="https://cdn.vectorstock.com/i/1000x1000/31/63/software-developer-2d-isolated-vector-44403163.webp")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webcodeshubham&label=Profile%20views&color=0e75b6&style=flat" alt="webcodeshubham" /> </p>
 
