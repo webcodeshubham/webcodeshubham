@@ -2,8 +2,9 @@
 
 <h1 align="center">Hey there! 👋, I'm Shubham Shrivastava 🌱</h1>
 <h3 align="center">Passionate Frontend Web Developer 👨‍💻</h3>
-<img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webcodeshubham&label=Profile%20views&color=0e75b6&style=flat" alt="webcodeshubham" /> </p>
+<img alt="Coding" width="400" src="https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -59,4 +60,5 @@
 <br /><br /><br /><br /><br /><br /><br />
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=webcodeshubham&show_icons=true&locale=en" alt="webcodeshubham" /></p>
 <br />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webcodeshubham" alt="webcodeshubham" /></a> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webcodeshubham&" alt="webcodeshubham" /></p>
