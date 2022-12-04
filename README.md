@@ -1,30 +1,53 @@
 ![boitumelo-phetla-4x09JNBx554-unsplash](https://user-images.githubusercontent.com/115470266/205470710-295ad6e0-91b3-4da2-b7ad-397d835375f7.jpg)
 
-<h1 align="center">Hey there! 👋, I'm Shubham Shrivastava 🌱</h1>
+<h1 align="center">Hey there! 👋, I'm Shubham Shrivastava 👨‍💻🌱</h1>
 <h3 align="center">Passionate Frontend Web Developer 👨‍💻</h3>
+
+### Visitors-Count
+![Visitor Count](https://profile-counter.glitch.me/{webcodeshubham}/count.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webcodeshubham&label=Profile%20views&color=0e75b6&style=flat" alt="webcodeshubham" /> </p>
 <img alt="Coding" width="400" src="https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Full Stack App - Organisation Leave Management Portal](To be Updated)
+<a href="https://www.linkedin.com/in/shubhams-2021">
+  <img align="left" alt="Shubham's Linkedin" width="80px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="add your link here">
+  <img align="left" alt="Shubham's Telegram" width="80px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<a href="add your link here">
+  <img align="left" alt="Shubham | Twitter" width="80px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<a href="mailto:theshubhamshri@gmail.com">
+  <img align="left" alt="Shubham's Email" width="65px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br />
+
+### ✨ Quick Facts
+
+- 🏢 I'm currently working in **[Tech IS India Pvt. Ltd, Kormangala, Bangalore](https://techis.io/)**
+
+- 🔭 I’m currently working on **[Full Stack App - Organisation Leave Management Portal](https://frontend-task-management-sys.herokuapp.com/)**
 
 - 🌱 I’m currently learning **JavaScript ES6, React JS Library 🥀**
 
-- 🙌 I’m looking to collaborate on [Frontend Web Application - React JS](To be Updated)
+- 🙌 I’m looking to collaborate on **[Frontend Web Application - React JS](To be Updated)**
 
-- 🤝 I’m looking for help with [Full Stack App - Organisation Leave Management Portal](To be Updated)
+- 🤝 I’m looking for help with **[Full Stack App - Organisation Leave Management Portal](https://frontend-task-management-sys.herokuapp.com/)**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://newportfolio-1.jstackshubham.repl.co/)
-
-- 📝 I regularly write articles on [To Be Updated](Full Stack Web Development Technologies - Django & React JS Stack)
+- 👨‍💻 All of my projects are available at **[Portfolio](https://newportfolio-1.jstackshubham.repl.co/)**
 
 - 💬 Ask me about **HTML - 5, CSS - 3,JavaScript ES6, React JS, Django, Django Rest Framework 🥀**
 
 - 📫 How to reach me **theshubhamshri@gmail.com**
 
-- 📄 Know about my experiences [Curriculum Vitae](https://drive.google.com/file/d/14p-YyGQw5WtaJrumZuFQuP2EdDBD3zTu/view?usp=share_link)
+- 📄 Know about my experiences **[Curriculum Vitae](https://drive.google.com/file/d/14p-YyGQw5WtaJrumZuFQuP2EdDBD3zTu/view?usp=share_link)**
 
 - ⚡ Fun fact **"I am a Mechanical Graduate" === "Full Stack!"😁**
 
