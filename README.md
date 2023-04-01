@@ -26,7 +26,7 @@
 
 - 🔭 I’m currently working on **[Full Stack App - Organisation Leave Management Portal](https://frontend-task-management-sys.herokuapp.com/).**
 
-- 🌱 I’m currently learning **JavaScript ES6, React JS, & Django Library. 🥀**
+- 🌱 I’m currently learning **JavaScript ES6, React JS, & Django Frameworks & Libraries. 🥀**
 
 - 🙌 I’m looking to collaborate on **Frontend Web Application - React JS.**
 
